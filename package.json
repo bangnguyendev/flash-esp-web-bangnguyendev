@@ -1,9 +1,9 @@
 {
-  "name": "esp-web-tools-bangnguyendev",
+  "name": "flash-esp-web-bangnguyendev",
   "version": "1.0.0",
   "description": "Web tools for ESP devices",
   "main": "dist/install-button.js",
-  "repository": "https://github.com/bangnguyendev/esp-web-tools-bangnguyendev",
+  "repository": "https://github.com/bangnguyendev/flash-esp-web-bangnguyendev",
   "author": "bangnguyendev",
   "license": "Apache-2.0",
   "scripts": {

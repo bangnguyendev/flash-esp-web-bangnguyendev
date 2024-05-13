@@ -40,7 +40,7 @@ import { version } from "./version";
 import type { EwFilledSelect } from "./components/ew-filled-select";
 
 console.log(
-  `ESP Web Tools ${version} by bangnguyendev; https://github.com/bangnguyendev/esp-web-tools-bangnguyendev.git`,
+  `ESP Web Tools ${version} by bangnguyendev; https://github.com/bangnguyendev/flash-esp-web-bangnguyendev.git`,
 );
 
 const ERROR_ICON = "⚠️";
